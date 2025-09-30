@@ -1,4 +1,4 @@
-# Week 04: Dynamic Programming
+# Week 05: More Dynamic Programming
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
